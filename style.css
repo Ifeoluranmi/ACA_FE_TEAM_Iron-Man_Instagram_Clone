@@ -39,8 +39,8 @@ header{
         font-size: 20px;
 }
 
-.hero-profile > ul > li{
-    margin: 0 50px;
+ul {
+    padding-left: 25px;
 }
 
 .icon{
@@ -109,10 +109,6 @@ h3{
     display: flex;
     justify-content: space-between;
     margin: 0 30px 0 0;
-}
-
-.other-users > span {
-    
 }
 
 #cards {
