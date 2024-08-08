@@ -20,7 +20,7 @@ body{
 }
 
 main{
-    background-color: rgba(3, 3, 3, 0.89);
+    background-color: rgba(0, 0, 4, 0.933);
     width: 40%;
     color: white;
     border-radius: 10px;
@@ -128,7 +128,7 @@ h3{
 }
 
 #user-card {
-    background-color: rgb(88, 82, 82);
+    background-color: rgb(50, 50, 49);
     border-radius: 10px;
     display: flex;
     flex-direction: column;
