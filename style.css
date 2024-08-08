@@ -88,14 +88,24 @@ h3{
     margin: 20px 0;
 }
 
+.profile-action > button > img {
+    width: 20px;
+    height: 10px;
+}
+
 .profile-action > button {
     border: 5px solid white;
     border-radius: 10px;
-    width: 30%;
+    width: 40%;
     padding: 10px 0;
     background-color: inherit;
     border: 2px solid white;
     color: white;
+}
+
+#add-user {
+    width: unset;
+
 }
 
 
