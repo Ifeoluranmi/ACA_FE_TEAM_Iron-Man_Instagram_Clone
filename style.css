@@ -46,7 +46,10 @@ ul {
 .icon{
     font-size: 20px;
     display: flex;
-    gap: 10px;
+    justify-content: space-between;
+    gap: 5px;
+    width: 50%;
+    height: 50%;
 }
 
 .icon > img {
