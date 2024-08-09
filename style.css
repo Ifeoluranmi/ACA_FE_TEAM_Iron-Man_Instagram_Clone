@@ -51,7 +51,6 @@ ul {
 
 .icon > img {
     width: 10%;
-    color: white;
 }
 
 .profile-image{
@@ -151,4 +150,15 @@ h3{
     background-color: white;
     border: none;
     padding: 20px 0;
+}
+
+footer {
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+
+footer > img {
+    width: 5%;
 }
