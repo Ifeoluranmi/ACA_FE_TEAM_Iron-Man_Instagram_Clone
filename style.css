@@ -167,7 +167,7 @@ h3{
     gap: 30px;
     justify-content: space-evenly;
     align-items: center;
-    margin: 50px 0;
+    margin: 50px 0 20px 0;
 }
 
 .feed-nav > img {
@@ -176,17 +176,22 @@ h3{
 }
 
 #feed-post {
-    border-bottom: 3px solid white;
+    border-top: 3px solid white;
     border-radius: 2px;
-    padding-bottom: 20px;
-    
+    padding: 5px;
+    width: 120px;
+    margin-left: 25%;
 }
 
 .user-feeds {
     margin-bottom: 50px;
 }
 
-.user-feeds > p {
+.news-feed {
+    margin-top: 30px;
+}
+
+.news-feed > p {
     color: blue;
 }
 
@@ -194,6 +199,7 @@ footer {
     display: flex;
     gap: 10px;
     justify-content: space-between;
+    align-items: center;
     margin: 30px 0 5px 0;
     border: 3px solid white;
 }
