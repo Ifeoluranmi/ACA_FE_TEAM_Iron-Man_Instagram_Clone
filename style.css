@@ -138,7 +138,6 @@ h3{
     align-items: center;
     justify-content: center;
     padding: 10px;
-    gap: 10px;
     width: 30%;
     margin-top: 10px;
 }
@@ -149,13 +148,18 @@ h3{
     margin: 20px 0;
 }
 
+#user-card > p {
+    font-size: 20px;
+
+}
+
 #user-card > button {
     width: 90%;
     border-radius: 10px;
     background-color: white;
     border: none;
     padding: 10px 0;
-    margin-top: 25px;
+    margin: 50px 0 7px 0;
 }
 
 .user-feeds {
@@ -180,12 +184,9 @@ h3{
     border-radius: 2px;
     padding: 5px;
     width: 120px;
-    margin-left: 20%;
+    margin-left: 25%;
 }
 
-.user-feeds {
-    margin-bottom: 50px;
-}
 
 .news-feed {
     margin-top: 30px;
@@ -193,6 +194,7 @@ h3{
 
 .news-feed > p {
     color: blue;
+    margin-top: 15px;
 }
 
 footer {
@@ -200,8 +202,10 @@ footer {
     gap: 10px;
     justify-content: space-between;
     align-items: center;
-    margin: 30px 20px 5px 0;
-    padding: 0 20px;
+    margin: ;
+    padding: 10px 20px;
+    border-top: 0.1px solid rgb(52, 52, 52);
+    width: 100%;
 }
 
 footer > img {
