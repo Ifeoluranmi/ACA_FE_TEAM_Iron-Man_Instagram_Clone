@@ -75,12 +75,11 @@ h3{
 }
 
 .profile-tag {
-    background-color: gray;
+    background-color: rgb(78, 78, 78);
     padding: 10px;
     border-radius: 100px;
     width: 200px;
     margin: 10px 0;
-    border: n;
 }
 
 .profile-action {
@@ -150,7 +149,8 @@ h3{
     border-radius: 10px;
     background-color: white;
     border: none;
-    padding: 20px 0;
+    padding: 10px 0;
+    margin-top: 25px;
 }
 
 .user-feeds {
